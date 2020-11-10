@@ -6,8 +6,8 @@ After working as a graphic designer for 7 years, I decided to enroll in LEARN Ac
 
 - 📫  Contact me here: <a href="https://relaxed-fermat-016832.netlify.app/index.html">Portfolio</a>  | <a href="https://www.linkedin.com/in/cynavago/">LinkedIn </a> | <a href="https://dribbble.com/cynavago/">Dribbble</a> 
 - 🌱 I’m currently learning the Ionic Framework
-- 💬  Ask me about my hobbies! I'm a stained glass artist on the side and love riding my single-speed.
-
+- 💬 Ask me about my hobbies! I'm a stained glass artist on the side and love riding my single-speed.
+- 🤔 Wondering where I got my avatar? I believe in artists supporting artists! Check out <a href="https://www.instagram.com/igorillustrations/?hl=en">Igor Canova's</a> work to commission your own avatar. 
 <!--
 **cynavago/cynavago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
