@@ -1,6 +1,4 @@
 <h2> ### Hi there! 👩🏽‍💻✨ </h2>
-
-  <img src="https://lh3.googleusercontent.com/fife/ABSRlIrL1uZi0_sqH1DFFHRX0KKqL32v5jLNXpadtfd56tkEFrwwSto_w2zEPwoaEHtrfMVCe9a4_cWqQjMJ21E5QdbxQs1e0BV-XagBrigUxIOiTUeZXHJqkkW0XLMSBgD9j6VjHX1x4woC5wBhwuPPZryvvKOhKYawZvGprT7JgepzpJV4eEJgcmH6-rJpw0EYZIG4m-1I8pkmQoFXJt4vlFG1l6CSUW0Q6BEh_Jslpo1JqV_Z3hGaLEC4KHxLuItlecdyGNytASiRFKmDHQEWQ1QrXNuAROZ-QVbKZ3vRnEhIdcfjOTHIb-hFK57m7XcKECHt5YfuAaDLP77Npk4pJg1FzNLuWE3gSBIlC1qn-HtRKL1feLDr1SxsQS2IHcIpGzmM6RPyIjU9remqMWaS3-Yp2l6J3m3GsbE9txgYOHSvw1o2l7m3YU2mvHDeC_dX9znKiPKJOgQHahAWXCYff7Pl0jRDxtGQTnpDFbCUJ53GaCjvMhvd1QS3S-ANgMr_v4DHAd6BF--hAkqx36iQNqdTHHInAWvGekFjVG06VCQwwnwHnX7jCOqkloQvbk52DQ6WRN__QV0SXZPhZo0ILRimF2v_DC8-DRuqBA_yM8KGGBmlo6L9nqvjrA9GS217iA3jZ1BsIfHiiRLiYMQn7lpo98kRcIBeXh4wlGQ7F1TuYIPOQHWE3ieelgoVXZva3O6aQ7BI9txnRYtHBVRMFou8_yAf_C6Za4E=w1567-h447-ft"/>
   
 I'm Cynthia Navarro, a web developer and graphic designer from San Diego, CA. Since starting my design career, I became interested in makerspaces and communities where people with common interests, such as machining, technology, and digital art, came together to collaborate. This journey led me to think about creating products in both physical and digital spaces.
 
