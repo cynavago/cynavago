@@ -1,6 +1,6 @@
 <h2> ### Hi there! 👩🏽‍💻✨ </h2>
 
-  <img src="https://lh3.googleusercontent.com/fife/ABSRlIppM67NccMXDCBq1tugJlVFl3h4kTh82DBrA9kvI3h2Ww1wm5kBq8yQehQGHfMbv6tZtw2ZYYpqzq_X3Rk5eYLTKuvuL_8Kqws3DsKpglVgXVbfUKrDzCYGE_KFeh2z8E1QrOsjt4_S31Er2bXrvJPdhvaEtwGjUBccg51Wo1Jh3Vcvmo4ausnt6i0qZvyWDr15ITZVmxFi5Fh14n3FDy2histhbJnLEQrAbobh_ZVCaaYCN_gU3PdLG50ZX5cd6qr9jHDSy1zwtyisE3u4PclWIVGRj6cQdRqiJubzmYgHP8jL16qXyZ_qegkUj1p7JOvxldufqhZvIQWVldSeOKczTE6eezBFB50jEXCKqqV5EaptWyRAQztf5Z6_EbHnFjZiko31wEeXJAey0QqGbBePUhbPg_6OnqrZtXJ_joCzRqcJwS3PV5amN43FpS9fHM3dgMhgA-a72Lwemx1f_vPCszYwURI-BmHoMhhvWocuw3fefkuMIAmC1qGhFjmLrLEu5aAUNViOCUVjfc-hgw9GCwt7lT_YXIMAfCjXLXVVzfTfnci5j1HrmNfDgwQjG8-nNHlkeVqtk2QReLtBmYsumK65F61EYct7f2F4s4AZv1YMxGjUXrELFDx0TnLEJzbNseM1oDZBaOE-rBSeumjVqhA8VpgswHpjyOatpKy0AmHa4DM-FtYG1NeCsIPIwjlDm7l6uwIY49MV74x3mIbLTqPvFisxAJw=w1567-h503-ft"/>
+  <img src="https://lh3.googleusercontent.com/fife/ABSRlIqwYDHHSTcxSLgx94592tYziJg8xeBFfkZJrHkr0xTft8b7RA3kv_BIGS4lRlDOUFCqV-HVjUUbaADLaFvmeBLLjpFkChw49eKtt0QIoQ-8Z8ZxSDuH_xbt9fEyVrPAZmdmE3O08gOChpUt6mhG4N0VpauOrwqXFxsfioMBor0IQpUILXERyC50j-C5tAUxTTlr0c7jfm3bnAZsSlfduIljK6Q8CvYIwiCh0lWTZ03cpEclrp-zwKQHQ7rk3XLOMj1YQMXBQth1S5H0e6GJriVSUdE5joa8Wr6CRzwJlS70y6lHhQpqDjTao3g9XYxoXXAVbuUv9iqyzaphC5sFMS0API034Pk_QyFvxuqIPfuaVyvpcwkPUMK5GzzaNgzN5OL98xNWYu2L3_iYMkx_DJ_EhVh83D_f3fqkt15D2CI8uUT2Q56uFUJaw9yksiul07brkjV_uxBhH84NWe--UAqRhnnpmf_YFrowIe_RDjljHzzSgU_rBCUPYN3axInUWUVTrVDqN65lRaQgQBGyHLwgxXWIJ4ejGxNBKiQRD0_6yXKU8iBL9SkpEVAQfKCZF7eHqipISkNB9KaLSNnKSHgFQRBAqVuw3uqIrFRe4ab_zisrgVya5gdW3jdEK1Qyw0t7Kk3-zJN1cZADntpc6yACF2tPqTngT8i2CQ2yldjJwSu1MNk80kC8lZYRqg6bLsZHIoK52bxT_aUkv3Z8v1X39qMY83MWdlw=w1567-h447-ft"/>
   
 I'm Cynthia Navarro, a web developer and graphic designer from San Diego, CA. Since starting my design career, I became interested in makerspaces and communities where people with common interests, such as machining, technology, and digital art, came together to collaborate. This journey led me to think about creating products in both physical and digital spaces.
 
@@ -8,8 +8,7 @@ After working as a graphic designer for 7 years, I decided to enroll in LEARN Ac
 
 As of now, my goal is to keep expanding my technical skills by working as a front-end web developer in a full-time remote position. In the future, I hope to be able to contribute to user-friendly and intuitive experiences that facilitate the relationship between people and technology. 
 
-Contact me here: <a href="www.google.com">LinkedIn </a> || Twitter || Instagram
-Check out my resume here.
+📫 Contact me here: <a href="https://relaxed-fermat-016832.netlify.app/index.html">Portfolio</a>  | <a href="https://www.linkedin.com/in/cynavago/">LinkedIn </a> | <a href="https://dribbble.com/cynavago/">Dribbble</a> 
 
 <!--
 **cynavago/cynavago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
