@@ -8,7 +8,7 @@ After working as a graphic designer for 7 years, I decided to enroll in LEARN Ac
 - 🌱 I’m currently learning the Ionic Framework
 - 👯 I’m looking to collaborate on React on Rails applications
 - 💬 Ask me about my hobbies! I'm a stained glass artist on the side and love riding my single-speed bike
-- 🤔 Wondering where I got my avatar? Check out <a href="https://www.instagram.com/igorillustrations/?hl=en">Igor Canova's</a> work to commission your own avatar. 
+- 🤔 Wondering where I got my avatar? Check out <a href="https://www.instagram.com/igorillustrations/?hl=en">Igor Canova's</a> work to commission your own avatar #artistssupportartists
 <!--
 **cynavago/cynavago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
