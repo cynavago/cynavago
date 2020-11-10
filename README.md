@@ -1,4 +1,4 @@
-<h2> ### Hi there! 👩🏽‍💻✨ </h2>
+<h2> Hi there! 👩🏽‍💻✨ </h2>
   
 I'm Cynthia Navarro, a web developer and graphic designer from San Diego, CA. Since starting my design career, I became interested in makerspaces and communities where people with common interests, such as machining, technology, and digital art, came together to collaborate. This journey led me to think about creating products in both physical and digital spaces.
 
