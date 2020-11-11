@@ -12,6 +12,7 @@ After working as a graphic designer for 7 years, I decided to enroll in LEARN Ac
 - 📫   How to reach me: cnavarrohdz@gmail.com
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cynavago&hide=stars,issues&show_icons=true&theme=buefy)](https://github.com/cynavago/github-readme-stats)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cynavago&layout=compact&show_icons=true&theme=buefy)](https://github.com/cynavago/github-readme-stats)
 
 
