@@ -11,7 +11,8 @@ After working as a graphic designer for 7 years, I decided to enroll in LEARN Ac
 - 🤔   Wondering where I got my avatar? Check out <a href="https://www.instagram.com/igorillustrations/?hl=en">Igor Canova's</a> work to commission your own avatar 
 - 📫   How to reach me: cnavarrohdz@gmail.com
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cynavago)](https://github.com/cynavago/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=cynavago&hide=stars)](https://github.com/cynavago/github-readme-stats)
+
 
 <!--
 **cynavago/cynavago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
