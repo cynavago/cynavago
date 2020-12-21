@@ -7,7 +7,6 @@ After working as a graphic designer for 7 years, I decided to enroll in LEARN Ac
 -  Check out my work here: <a href="http://www.cynavago.com">Portfolio</a>  | <a href="https://www.linkedin.com/in/cynavago/">LinkedIn </a> | <a href="https://dribbble.com/cynavago/">Dribbble</a> 
 -  I’m looking to collaborate on React on Rails applications
 -  Ask me about my hobbies! I'm a <a href="https://www.instagram.com/casadecolores.shop/"/>stained glass artist </a> on the side and love riding my single-speed bike
--  Wondering where I got my avatar? Check out <a href="https://www.instagram.com/igorillustrations/?hl=en">Igor Canova's</a> work to commission your own avatar 
 -   How to reach me: cnavarrohdz@gmail.com
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cynavago&hide=stars,issues&show_icons=true&theme=buefy)](https://github.com/cynavago/github-readme-stats)
