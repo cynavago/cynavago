@@ -3,7 +3,7 @@
 I'm Cynthia Navarro, a web developer and UI designer from San Diego, CA.
 
 
--  Check out my work here: <a href="http://www.cynavago.com">LinkedIn </a> | <a href="https://dribbble.com/cynavago/">Dribbble</a> 
+-  Check out my work here: <a href="http://www.cynavago.com">LinkedIn </a>
 -   How to reach me: cnavarrohdz@gmail.com
 
 
