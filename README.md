@@ -1,6 +1,6 @@
 <h2> Hi there! 👩🏽‍💻✨ </h2>
   
-I'm Cynthia Navarro, a ui designer from San Diego, CA.
+I'm Cynthia Navarro, a ui designer living in NYC.
 
 
 -  Check out my work here: <a href="http://www.cynavago.com">LinkedIn </a>
